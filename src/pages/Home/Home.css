@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+.hero-section-desc{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    line-height: 34.4px;
+}
+.hero-section{
+    background: url('../../assets/backgrounds/hero-background.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 993px;
+}
+.hero-btn{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 34.4px;
+}
